@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\bin\Debug\net7.0\Calculadora_Basica_BUSA.exe
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\bin\Debug\net7.0\Calculadora_Basica_BUSA.deps.json
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\bin\Debug\net7.0\Calculadora_Basica_BUSA.runtimeconfig.json
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\bin\Debug\net7.0\Calculadora_Basica_BUSA.dll
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\bin\Debug\net7.0\Calculadora_Basica_BUSA.pdb
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\Calculadora_Basica_BUSA.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\Calculadora_Basica_BUSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\Calculadora_Basica_BUSA.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\Calculadora_Basica_BUSA.AssemblyInfo.cs
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\Calculadora_Basica_BUSA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\Calculadora_Basica_BUSA.dll
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\refint\Calculadora_Basica_BUSA.dll
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\Calculadora_Basica_BUSA.pdb
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\Calculadora_Basica_BUSA.genruntimeconfig.cache
+C:\Users\User\source\repos\Calculadora_Basica_BUSA\Calculadora_Basica_BUSA\obj\Debug\net7.0\ref\Calculadora_Basica_BUSA.dll
